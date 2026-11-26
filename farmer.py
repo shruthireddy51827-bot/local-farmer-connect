@@ -20,6 +20,7 @@ st.set_page_config(
 )
 
 initialize_database()
+import seed_data
 
 
 # ---------------- PASSWORD FUNCTIONS ----------------
